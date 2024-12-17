@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1def6092.css",
+    "main.js": "/static/js/main.1f158dac.js",
+    "static/js/453.9c792964.chunk.js": "/static/js/453.9c792964.chunk.js",
+    "static/media/profile-image.jpg": "/static/media/profile-image.99de889751c5b4ade09c.jpg",
+    "static/media/rb_2149279470.png": "/static/media/rb_2149279470.d0f99b0bbaff2369d164.png",
+    "static/media/rb_2150696467.png": "/static/media/rb_2150696467.166e17cdae5434627749.png",
+    "static/media/partner.jpg": "/static/media/partner.18ed36b0bf48ab631582.jpg",
+    "static/media/rb_5553.png": "/static/media/rb_5553.8ef4e2fa385fcbfb66b6.png",
+    "static/media/rb_2150624582.png": "/static/media/rb_2150624582.bef053c9c363511aa453.png",
+    "static/media/home__section__two__banner.png": "/static/media/home__section__two__banner.c5347161455891d65f4d.png",
+    "static/media/image10.png": "/static/media/image10.75b6195d0e4ef4b909b7.png",
+    "static/media/AirbnbCereal_W_Lt.otf": "/static/media/AirbnbCereal_W_Lt.6cb70d2c3d67dfe9b7fc.otf",
+    "static/media/glasses-book-create.png": "/static/media/glasses-book-create.a1a03a447731486a099d.png",
+    "static/media/modal-confirmation.png": "/static/media/modal-confirmation.67f423fc3ff951bcf2d0.png",
+    "static/media/logo__white.png": "/static/media/logo__white.73aa1c1bd4c6c0d32119.png",
+    "static/media/gift3.png": "/static/media/gift3.e9bfb52acc80dfb36c18.png",
+    "static/media/logo2.png": "/static/media/logo2.c88735a80fa5c5fbdb07.png",
+    "static/media/account.dashboard.png": "/static/media/account.dashboard.2c4105ceccd95e3760cb.png",
+    "static/media/gift7.png": "/static/media/gift7.10b2867768186e80ddd8.png",
+    "static/media/gift2.png": "/static/media/gift2.8811651e31dad1495404.png",
+    "static/media/gift8.png": "/static/media/gift8.51df5420df3ce9f293b0.png",
+    "static/media/apple.png": "/static/media/apple.b15a6de9690dad87784e.png",
+    "static/media/logo.png": "/static/media/logo.7447102da16dd180140d.png",
+    "index.html": "/index.html",
+    "main.1def6092.css.map": "/static/css/main.1def6092.css.map",
+    "main.1f158dac.js.map": "/static/js/main.1f158dac.js.map",
+    "453.9c792964.chunk.js.map": "/static/js/453.9c792964.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1def6092.css",
+    "static/js/main.1f158dac.js"
+  ]
+}
