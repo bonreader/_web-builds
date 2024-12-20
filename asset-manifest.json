@@ -1,21 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.96f52539.css",
-    "main.js": "/static/js/main.5ecf6134.js",
+    "main.css": "/static/css/main.fbc6de1d.css",
+    "main.js": "/static/js/main.34152135.js",
     "static/js/453.58f88f5b.chunk.js": "/static/js/453.58f88f5b.chunk.js",
-    "static/media/profile-image.jpg": "/static/media/profile-image.99de889751c5b4ade09c.jpg",
-    "static/media/home__hero__image.png": "/static/media/home__hero__image.5ae52fc1f6bc12df51d6.png",
+    "static/media/rb_5553.png": "/static/media/rb_5553.8ef4e2fa385fcbfb66b6.png",
     "static/media/AirbnbCereal_W_Lt.otf": "/static/media/AirbnbCereal_W_Lt.6cb70d2c3d67dfe9b7fc.otf",
     "static/media/ad__ds__one.png": "/static/media/ad__ds__one.2b527bf3922925ccb7c1.png",
-    "static/media/ad__ds__two.png": "/static/media/ad__ds__two.fdbf1f19de8e1428eaa7.png",
     "static/media/logo.png": "/static/media/logo.7447102da16dd180140d.png",
     "index.html": "/index.html",
-    "main.96f52539.css.map": "/static/css/main.96f52539.css.map",
-    "main.5ecf6134.js.map": "/static/js/main.5ecf6134.js.map",
+    "main.fbc6de1d.css.map": "/static/css/main.fbc6de1d.css.map",
+    "main.34152135.js.map": "/static/js/main.34152135.js.map",
     "453.58f88f5b.chunk.js.map": "/static/js/453.58f88f5b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96f52539.css",
-    "static/js/main.5ecf6134.js"
+    "static/css/main.fbc6de1d.css",
+    "static/js/main.34152135.js"
   ]
 }
